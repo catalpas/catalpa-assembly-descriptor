@@ -8,4 +8,4 @@
 
 > **standalone**
 
-`standalone`在`update`的基础上增加两个文件夹`bin`和`logs`，分别用来保存可运行文件和日志
+`standalone`在`update`的基础上增加两个文件夹`bin`和`logs`，分别用来保存可运行文件和日志，其中`bin`文件夹将拷贝项目中`src/main/bin`目录中的内容。`logs`文件夹自动生成
