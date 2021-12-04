@@ -6,7 +6,7 @@
 
     <groupId>com.github.catalpas</groupId>
     <artifactId>catalpa-assembly-descriptor</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
 
     <name>Catalpa Assembly Descriptor</name>
     <description>custom maven assembly descriptor</description>
